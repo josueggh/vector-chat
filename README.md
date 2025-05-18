@@ -1,5 +1,6 @@
 # Vector Chat
 
+![PyPI](https://img.shields.io/pypi/v/vector-chat)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A Python toolkit for text embedding with OpenAI and Qdrant, semantic search, and AI-powered chat.
